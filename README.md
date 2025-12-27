@@ -1,6 +1,4 @@
 👋 Hi, I’m @Ramkrishna97
-This is just a start of getting into madness.
-
 
 💻 Passionate about building **scalable**, **high-performance**, and **cloud-ready** backend systems.  
 ⚙️ I enjoy working with distributed systems, microservices, and modern DevOps tools.
