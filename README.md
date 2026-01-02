@@ -1,4 +1,4 @@
-👋 Hi, I’m @Ramkrishna97
+👋 Hi, I’m Ramkrishna
 
 💻 Passionate about building **scalable**, **high-performance**, and **cloud-ready** backend systems.  
 ⚙️ I enjoy working with distributed systems, microservices, and modern DevOps tools.
