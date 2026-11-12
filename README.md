@@ -1,15 +1,15 @@
-👋 Hi, I’m Ramkrishna
+## 👋 Hi, I’m Ramkrishna
 
-💻 Passionate about building **scalable**, **high-performance**, and **cloud-ready** backend systems.  
-⚙️ I enjoy working with distributed systems, microservices, and modern DevOps tools.
+I’m a backend-focused developer building scalable, cloud-ready services with **Java** and **Spring Boot**. I enjoy designing REST APIs, event-driven systems, and reliable delivery pipelines.
 
+🔗 **Portfolio:** [portfolio-rk-dev1.vercel.app](https://portfolio-rk-dev1.vercel.app/)
 
 ## 🚀 About Me
-- 🧠 Backend-focused developer with strong system design fundamentals  
-- 🔄 Experienced in **Microservices Architecture**
-- ☁️ Cloud-native mindset with hands-on **Oracle Cloud**
-- 🐧 Comfortable working in **Linux environments**
-- 🤝 Believe in clean code, automation, and continuous improvement
+- 🧠 Focused on backend development and system design
+- 🔄 Experienced with microservices and event-driven architecture
+- ☁️ Hands-on with Oracle Cloud Infrastructure, Docker, and Kubernetes
+- 🐧 Comfortable with Linux, shell scripting, and CI/CD automation
+- 🤝 Interested in clean code, observability, and continuous improvement
 
 ---
 
@@ -18,10 +18,12 @@
 ### 🔹 Backend & Core
 - ☕ **Java**
 - 🌱 **Spring Boot**
-- 🧩 **Microservices**
+- 🔌 **REST APIs**
 - 🧪 **JUnit**
 
-### 🔹 Messaging & Streaming
+### 🔹 Architecture & Messaging
+- 🧩 **Microservices**
+- 🔄 **Event-driven systems**
 - 📡 **Apache Kafka**
 
 ### 🔹 DevOps & CI/CD
@@ -35,7 +37,6 @@
 ### 🔹 Cloud & Monitoring
 - ☁️ **Oracle Cloud Infrastructure (OCI)**
 - 📊 **Kibana**
-- ⚡ **Lightspeed**
 
 ### 🔹 Frontend (Working Knowledge)
 - 🅰️ **Angular**
@@ -46,6 +47,7 @@
 ### 🔹 Developer Productivity
 - 🤖 **GitHub Copilot**
 - DiffBlue
+- ⚡ **Lightspeed**
 
 ---
 
